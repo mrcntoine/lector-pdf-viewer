@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@anaralabs/lector": "^3.7.2",
-    "pdfjs-dist": "^5.4.449",
+    "pdfjs-dist": "4.10.38",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
